@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 查询成绩	
 
-You can use the [editor on GitHub](https://github.com/heihuafeifahui/html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2018年我省普通高考(含“普通高等院校招收中等职业学校毕业生考试”，下同)评卷工作已经完成，现将我省普通高考考生考试成绩发布
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+刘坤炫
 
-### Markdown
+语文:149
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+理科数学:140
 
-```markdown
-Syntax highlighted code block
+理科综合:291
 
-# Header 1
-## Header 2
-### Header 3
+理科类总分:580
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heihuafeifahui/html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
